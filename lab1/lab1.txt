@@ -1,0 +1,26 @@
+Соообщение "Сохранено" при следующих значениях поля "Url":
+- https://github.com
+- https://s.c
+- https://github.cetwereom
+- https://1234567890-a.qwertyuiopasdfghjklzxcvbnm.cetwereom
+- https://[246].by
+- http://sasd.qwertyuiopasdfghjklzxcvbnm
+- http://githsdfsdf123-123-asd.sdf.ub.com
+- http://[246].by
+Сообщение "Ошибка" при следующих значениях поля "Пользователь":
+- http://sasdasd
+- http://sasdas d.com
+- http://sasdasd.123
+- http:123123
+- http://!.com   // вместо ! использовать @#$%^&*()_+
+- http://asd.!   // вместо ! использовать @#$%^&*()_+
+- https://!.com   // вместо ! использовать @#$%^&*()_+
+- https://asd.!   // вместо ! использовать @#$%^&*()_+
+- http://a.[0-9]
+- http://a..
+- http://[256+ symbols]].com
+- htasdatps://github.cetwereom
+- https:////github.cetwereom
+- https//github.cetwereom
+- ftp://github.cetwereom
+- s
